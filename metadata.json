@@ -1,0 +1,7 @@
+{
+  "name": "Amikom Smart Parking",
+  "description": "A sophisticated campus parking management system for Universitas Amikom Yogyakarta, featuring real-time slot tracking, dynamic QR access, and AI-powered support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
